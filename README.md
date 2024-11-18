@@ -1,1 +1,2 @@
-# uc-berkeley-summer-session
+# 2022 UC Berkeley Summer Session
+- LINGUISTIC DATA (LINGUIS 188)
